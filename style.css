@@ -1,5 +1,9 @@
 .completed {
     color: red;
-    background-color: brown;
+    background-color: black;
     text-decoration: line-through;
+    list-style-type:circle;
+}
+button{
+    background-color: blueviolet;
 }
